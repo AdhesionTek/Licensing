@@ -13,7 +13,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
   
 - Any copy of the Video MUST include a link to the source or this license. 
 	
-  任何“视频”的复制品必须包含出处或者此许可。
+  任何“视频”的复制品必须包含出处或者此许可的链接。
   
 - Any legislation confections that result from the re-use of the Video should be the responsibility of the people who re-use the Video.
 
