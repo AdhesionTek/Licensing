@@ -1,4 +1,4 @@
-# StickTech General Video License (v1)
+# General Video License (v1)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of the video (the "Video"), to use this video freely, including without limitation to watch, copy, modify, translate, monetize, and/or re-distribute this video, and to permit persons to whom the Video is furnished to do so, subject to the following conditions:
 
