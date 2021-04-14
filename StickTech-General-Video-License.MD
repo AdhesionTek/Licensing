@@ -17,4 +17,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
   
 - Any legislation confections that result from the re-use of the Video should be the responsibility of the people who re-use the Video.
 
-  任何由于再使用本视频所导致的法律问题，应该由再使用的人负责。
+  任何由于再使用本“视频”所导致的法律问题，应该由再使用的人负责。
