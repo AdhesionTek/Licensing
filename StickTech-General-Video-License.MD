@@ -1,5 +1,6 @@
 # StickTech General Video License (v1)
 
+# StickTech General Video License (v1)
 Permission is hereby granted, free of charge, to any person obtaining a copy of the video (the "Video"), to use this video freely, including without limitation to watch, copy, modify, translate, monetize, and/or re-distribute this video, and to permit persons to whom the Video is furnished to do so, subject to the following conditions:
 
 此权益，是所有获得此“视频”的人所自由享有的。被授权人有权自由的使用此视频（下文称为“视频”），包括观看，复制，修改，翻译，盈利，以及/或者再发布。为了被授予上述权力，被授权人应该遵守以下协议：
